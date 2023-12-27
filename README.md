@@ -2,6 +2,8 @@
 ### Introduction
 Explore the Gemini App by Google AI Studio, where the gemini-pro model excels in text understanding, and gemini-pro-vision takes charge of image analysis with text
 
+**Try online : [https://geminiproai.streamlit.app/](https://geminiproai.streamlit.app/ "https://geminiproai.streamlit.app/")**
+
 ![image](https://github.com/saurabhkhadsang/Gemini-AI/assets/84808913/b29aed69-66a3-456a-9332-0271dbb9b278)
 
 
